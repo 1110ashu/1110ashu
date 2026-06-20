@@ -1,16 +1,210 @@
-## Hi there 👋
+<h1 
+    align="center" 
+    style="font-family: Georgia; 
+    color: #363636; 
+    font-weight: 500;"
+    > ASHISH GULERIA 
+</h1>
 
-<!--
-**1110ashu/1110ashu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div 
+    align="center"
+    width="fit"
+    style="
+        display: flex; 
+        justify-content: space-between; 
+        align-items: center">
+    <img 
+      src="https://komarev.com/ghpvc/?username=1110ashu&color=blue"
+      alt="Profile Views"
+      style="height: 25px; vertical-align: middle; margin-right: 5px;" 
+    />
+    <img
+      src="https://img.shields.io/badge/Availability-Remote-ff7f3f"
+      alt="Job Status"
+      style="height: 25px; vertical-align: middle;" 
+    />
+    <img
+      src="https://img.shields.io/badge/Open_To-Feedback_&_Collaboration-ff5bd8"
+      alt="Job Status"
+      style="height: 25px; vertical-align: middle;"
+    />
+    <img
+      src="https://img.shields.io/badge/Status-Building%20Solutions-brightgreen"
+      alt="Status"
+      style="height: 25px; vertical-align: middle;"
+    />
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 
+    align="center" 
+    style="
+        font-family: 'Fira Sans', sans-serif; 
+        color: #444444; 
+        font-weight: 400;"
+    > Professional Googler. Sometimes I write code, too. 
+</h3>
+
+<br>
+
+<div 
+    style="
+        display: flex; 
+        justify-content: space-between; 
+        align-items: center; 
+        width: fit;">
+  <p> - 📫 How to reach me: <strong>ashishguleria71@gmail.com</strong></p>
+  <p> - ⚡ Fun fact: <strong>I'm not lazy, I'm just algorithmically efficient.</strong></p>
+</div>
+
+<br>
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<div align="center" width="fit">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats-eight.vercel.app/?user=1110ashu&theme=dark"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-streak-stats-eight.vercel.app/?user=1110ashu&theme=light"
+    />
+    <img 
+        align="center" 
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=1110ashu" 
+        alt="GitHub Streak Stats" 
+        width="49%" />
+  </picture>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://denvercoder1-github-readme-stats.vercel.app/api/?username=1110ashu&layout=compact&show_icons=true&theme=dark"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://denvercoder1-github-readme-stats.vercel.app/api/?username=1110ashu&layout=compact&show_icons=true&theme=light"
+    />
+    <img 
+        align="center" 
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=1110ashu&layout=compact&show_icons=true"
+        alt="GitHub Stats" 
+        width="48%" />
+  </picture>
+</div>
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<br><br>
+
+<div align="center" width="fit">
+    <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-activity-graph.vercel.app/graph?username=1110ashu&theme=dark"
+        />
+        <source
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          srcset="https://github-readme-activity-graph.vercel.app/graph?username=1110ashu&theme=light"
+        />
+        <img 
+            align="center" 
+            src="https://github-readme-activity-graph.vercel.app/graph?username=1110ashu" 
+            alt="Activity Graph"
+            width="fit"
+        />
+  </picture>
+</div>
+
+<br>
+
+<div align="center" width="fit">
+  <picture alt="LeetCode Stats">
+    <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://leetcard.jacoblin.cool/Ashish_guleria?theme=dark"
+    />
+    <source 
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+        srcset="https://leetcard.jacoblin.cool/Ashish_guleria?theme=light" 
+    />
+    <img 
+        src="https://leetcard.jacoblin.cool/Ashish_guleria" 
+        width="60%"
+        alt="LeetCode Stats"
+    />
+  </picture>
+</div>
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<br>
+
+<div 
+    width="fit"
+    alt="leetcode badges">
+    <img 
+        src="https://assets.leetcode.com/static_assets/public/images/coin.gif" 
+        width="10%" 
+        alt"coin"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/others/100.gif" 
+        width="10%"
+        alt="100 days 2026"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/others/50.gif" 
+        width="10%"
+        alt="50 days 2026"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/5.gif" 
+        width="10%"
+        alt="may 2026"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/4.gif" 
+        width="10%"
+        alt="apr 2026"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/3.gif" 
+        width="10%"
+        alt="mar 2026"></img>
+  
+</div>
+    <!-- <img src="" width="10%"></img> -->
+</div>
+
+<br><br>
+
+<div>
+  <h3 align="center">
+      <strong>Let's Connect!</strong
+  </h3>
+</div>
+    
+  <div align="center">
+     <a href="https://www.linkedin.com/in/ashish0100/" target="blank">
+         <img 
+             align="center" 
+             src="https://custom-icon-badges.demolab.com/badge/-0A66C2?logo=linkedin-white&logoColor=fff" 
+             alt="LinkedIn"
+             width="5%"/></a>
+    <a href="https://www.instagram.com/mr_ashish_hp97" target="blank">
+        <img 
+            align="center" 
+            src="https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white" 
+            alt="Instagram"
+            width="5%"/></a>
+    <!-- <a href="https://github.com/sponsors/uvraaj" target="blank">
+        <img 
+            align="center" 
+            src="https://img.shields.io/badge/-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA" 
+            alt="Sponsor"
+            width="5%"/></a> -->
+      <a href="https://leetcode.com/u/Ashish_guleria/" target="blank">
+        <img 
+            align="center" 
+            src="https://img.shields.io/badge/-000000?logo=LeetCode&logoColor=#d16c06" 
+            alt="Leetcode"
+            width="5%"/></a>
+      <a href="https://github.com/1110ashu" target="blank">
+        <img 
+            align="center" 
+            src="https://img.shields.io/badge/-%23121011.svg?logo=github&logoColor=white" 
+            alt="github"
+            width="5%"/></a>
+  </div>
